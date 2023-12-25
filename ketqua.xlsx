@@ -1,0 +1,128 @@
+1	Chúng_tôi	P	O	2	sub
+2	xin	V	O	0	root
+3	giới_thiệu	V	O	2	vmod
+4	một	M	O	5	det
+5	bộ	Nc	O	3	dob
+6	công_cụ	N	O	5	nmod
+7	nhanh	A	O	5	nmod
+8	và	Cc	O	2	coord
+
+1	dễ	A	O	2	vmod
+2	sử_dụng	V	O	0	root
+3	,	CH	O	2	punct
+4	đó	P	O	5	sub
+5	là	V	O	2	dep
+6	VnCoreNLP—một	Np	O	5	vmod
+7	đường_dẫn	V	O	6	nmod
+8	chú	N	O	7	dob
+
+1	thích	V	O	0	root
+2	Java_NLP	Np	O	1	dob
+3	dành	V	O	1	vmod
+4	cho	E	O	3	iob
+5	người	N	B-MISC	4	pob
+6	Việt_Nam	Np	I-MISC	5	nmod
+7	.	CH	O	1	punct
+
+1	VnCoreNLP	Np	B-PER	0	root
+
+1	của	E	O	0	root
+2	chúng_tôi	P	O	1	pob
+3	hỗ_trợ	V	O	0	root
+4	các	L	O	5	det
+5	tác_vụ	N	O	3	dob
+6	xử_lý	V	O	5	nmod
+7	ngôn_ngữ	N	O	6	vmod
+8	tự	P	O	3	x
+
+1	nhiên	N	O	6	sub
+2	(	CH	O	1	punct
+3	NLP	Ny	O	1	nmod
+4	)	CH	O	1	punct
+5	chính	T	O	6	vmod
+6	bao_gồm	V	O	0	root
+7	phân_đoạn	V	O	6	vmod
+8	từ	E	O	7	loc
+9	,	CH	O	8	punct
+10	gắn	V	O	6	vmod
+11	thẻ	N	O	10	dob
+
+1	một	M	O	2	det
+2	phần	N	O	10	sub
+3	lời_nói	N	O	2	nmod
+4	(	CH	O	3	punct
+5	POS	Ny	O	3	nmod
+6	)	CH	O	2	punct
+7	,	CH	O	2	punct
+8	nhận_dạng	V	O	2	nmod
+9	thực_thể	N	O	8	dob
+10	được	V	O	0	root
+
+1	đặt	V	O	0	root
+2	tên	N	O	1	dob
+3	(	CH	O	2	punct
+4	NER	Ny	O	2	nmod
+5	)	CH	O	2	punct
+6	và	Cc	O	1	coord
+7	phân_tích	V	O	6	conj
+8	cú_pháp	N	O	7	dob
+9	phụ_thuộc	V	O	8	nmod
+10	,	CH	O	1	punct
+11	đồng	N	O	1	sub
+
+1	thời	N	O	0	root
+2	thu	V	O	1	nmod
+3	được	R	O	2	adv
+4	kết_quả	N	O	2	dob
+5	hiện_đại	A	O	4	nmod
+6	(	CH	O	2	punct
+7	SOTA	Ny	O	4	nmod
+8	)	CH	O	2	punct
+9	cho	E	O	2	iob
+10	các	L	O	11	det
+11	tác	N	O	9	pob
+
+1	vụ	N	O	0	root
+2	này	P	O	1	det
+3	nhiệm_vụ	N	O	1	nmod
+4	.	CH	O	1	punct
+
+1	Chúng_tôi	P	O	2	sub
+2	phát_hành	V	O	0	root
+3	VnCoreNLP	Np	O	2	dob
+4	để	E	O	2	prp
+
+1	cung_cấp	V	O	0	root
+2	các	L	O	3	det
+3	chú_thích	N	O	1	dob
+4	ngôn_ngữ	N	O	3	nmod
+5	phong_phú	A	O	3	nmod
+6	nhằm	V	O	1	prp
+7	tạo	V	O	6	vmod
+
+1	điều_kiện	N	O	3	sub
+2	thuận_lợi	A	O	1	nmod
+3	cho	E	O	0	root
+4	công_việc	N	O	3	dob
+5	nghiên_cứu	V	O	4	nmod
+6	về	E	O	3	vmod
+
+1	NLP	Ny	O	0	root
+2	tiếng	N	B-MISC	1	nmod
+3	Việt	Np	I-MISC	2	nmod
+4	.	CH	O	1	punct
+
+1	VnCoreNLP	N	O	4	sub
+2	của	E	O	1	nmod
+3	chúng_tôi	P	O	2	pob
+4	là	V	O	0	root
+5	mã	N	O	4	dob
+
+1	nguồn	N	O	4	sub
+2	mở	V	O	1	nmod
+3	và	Cc	O	0	coord
+4	có	V	O	3	conj
+5	sẵn	A	O	4	vmod
+6	tại	E	O	1	loc
+7	:	CH	O	6	punct
+

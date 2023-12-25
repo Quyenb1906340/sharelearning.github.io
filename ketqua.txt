@@ -1,0 +1,1 @@
+{0: [{'index': 1, 'wordForm': 'database', 'posTag': '_', 'nerLabel': '_', 'head': '_', 'depLabel': '_'}]}

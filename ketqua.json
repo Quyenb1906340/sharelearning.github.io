@@ -1,0 +1,333 @@
+{
+    "0": [{
+            "index": 1,
+            "wordForm": "HTML",
+            "posTag": "Ny",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "sub"
+        },
+        {
+            "index": 2,
+            "wordForm": "là",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 0,
+            "depLabel": "root"
+        },
+        {
+            "index": 3,
+            "wordForm": "gì",
+            "posTag": "P",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "dob"
+        },
+        {
+            "index": 4,
+            "wordForm": "?",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "punct"
+        }
+    ],
+    "1": [{
+            "index": 1,
+            "wordForm": "HTML",
+            "posTag": "Ny",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "sub"
+        },
+        {
+            "index": 2,
+            "wordForm": "có",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 0,
+            "depLabel": "root"
+        },
+        {
+            "index": 3,
+            "wordForm": "tên",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "dob"
+        },
+        {
+            "index": 4,
+            "wordForm": "đầy_đủ",
+            "posTag": "A",
+            "nerLabel": "O",
+            "head": 3,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 5,
+            "wordForm": "là",
+            "posTag": "C",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "coord"
+        },
+        {
+            "index": 6,
+            "wordForm": "Hypertext_Markup_Language",
+            "posTag": "Np",
+            "nerLabel": "B-PER",
+            "head": 7,
+            "depLabel": "sub"
+        },
+        {
+            "index": 7,
+            "wordForm": "nghĩa_là",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 5,
+            "depLabel": "conj"
+        },
+        {
+            "index": 8,
+            "wordForm": "ngôn_ngữ_đánh_dấu",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 7,
+            "depLabel": "dob"
+        },
+        {
+            "index": 9,
+            "wordForm": "siêu_văn_bản",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 8,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 10,
+            "wordForm": ".",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 2,
+            "depLabel": "punct"
+        }
+    ],
+    "2": [{
+            "index": 1,
+            "wordForm": "HTML",
+            "posTag": "Ny",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "sub"
+        },
+        {
+            "index": 2,
+            "wordForm": "thường",
+            "posTag": "R",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "adv"
+        },
+        {
+            "index": 3,
+            "wordForm": "được",
+            "posTag": "R",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "adv"
+        },
+        {
+            "index": 4,
+            "wordForm": "sử_dụng",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 0,
+            "depLabel": "root"
+        },
+        {
+            "index": 5,
+            "wordForm": "để",
+            "posTag": "E",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "prp"
+        },
+        {
+            "index": 6,
+            "wordForm": "tạo",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 5,
+            "depLabel": "vmod"
+        },
+        {
+            "index": 7,
+            "wordForm": "và",
+            "posTag": "Cc",
+            "nerLabel": "O",
+            "head": 6,
+            "depLabel": "coord"
+        },
+        {
+            "index": 8,
+            "wordForm": "cấu_trúc",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 7,
+            "depLabel": "conj"
+        },
+        {
+            "index": 9,
+            "wordForm": "các",
+            "posTag": "L",
+            "nerLabel": "O",
+            "head": 10,
+            "depLabel": "det"
+        },
+        {
+            "index": 10,
+            "wordForm": "phần",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 8,
+            "depLabel": "dob"
+        },
+        {
+            "index": 11,
+            "wordForm": "trong",
+            "posTag": "E",
+            "nerLabel": "O",
+            "head": 10,
+            "depLabel": "loc"
+        },
+        {
+            "index": 12,
+            "wordForm": "trang_web",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 11,
+            "depLabel": "pob"
+        },
+        {
+            "index": 13,
+            "wordForm": "và",
+            "posTag": "Cc",
+            "nerLabel": "O",
+            "head": 6,
+            "depLabel": "coord"
+        },
+        {
+            "index": 14,
+            "wordForm": "ứng_dụng",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 13,
+            "depLabel": "conj"
+        },
+        {
+            "index": 15,
+            "wordForm": ",",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "punct"
+        },
+        {
+            "index": 16,
+            "wordForm": "phân_chia",
+            "posTag": "V",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "vmod"
+        },
+        {
+            "index": 17,
+            "wordForm": "các",
+            "posTag": "L",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "det"
+        },
+        {
+            "index": 18,
+            "wordForm": "đoạn",
+            "posTag": "Nc",
+            "nerLabel": "O",
+            "head": 16,
+            "depLabel": "dob"
+        },
+        {
+            "index": 19,
+            "wordForm": "văn",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 20,
+            "wordForm": ",",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "punct"
+        },
+        {
+            "index": 21,
+            "wordForm": "heading",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 22,
+            "wordForm": ",",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "punct"
+        },
+        {
+            "index": 23,
+            "wordForm": "link",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 24,
+            "wordForm": ",",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "punct"
+        },
+        {
+            "index": 25,
+            "wordForm": "blockquotes",
+            "posTag": "N",
+            "nerLabel": "O",
+            "head": 18,
+            "depLabel": "nmod"
+        },
+        {
+            "index": 26,
+            "wordForm": ",",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "punct"
+        },
+        {
+            "index": 27,
+            "wordForm": "…",
+            "posTag": "CH",
+            "nerLabel": "O",
+            "head": 4,
+            "depLabel": "punct"
+        }
+    ]
+}

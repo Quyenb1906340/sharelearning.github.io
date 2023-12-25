@@ -1,0 +1,13 @@
+Chúng tôi xin giới thiệu một bộ công cụ nhanh và
+dễ sử dụng, đó là VnCoreNLP—một đường dẫn chú
+thích Java NLP dành cho người Việt Nam. VnCoreNLP
+của chúng tôi hỗ trợ các tác vụ xử lý ngôn ngữ tự
+nhiên (NLP) chính bao gồm phân đoạn từ, gắn thẻ
+một phần lời nói (POS), nhận dạng thực thể được
+đặt tên (NER) và phân tích cú pháp phụ thuộc, đồng
+thời thu được kết quả hiện đại (SOTA) cho các tác
+vụ này nhiệm vụ. Chúng tôi phát hành VnCoreNLP để
+cung cấp các chú thích ngôn ngữ phong phú nhằm tạo
+điều kiện thuận lợi cho công việc nghiên cứu về
+NLP tiếng Việt. VnCoreNLP của chúng tôi là mã
+nguồn mở và có sẵn tại:
