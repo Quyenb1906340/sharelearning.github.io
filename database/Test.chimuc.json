@@ -1,0 +1,2996 @@
+[{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea37"
+  },
+  "word": 1,
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 4
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea38"
+  },
+  "word": "tạo",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea39"
+  },
+  "word": "database",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3a"
+  },
+  "word": "trong",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 4
+    },
+    {
+      "doc_id": 154,
+      "count": 5
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3b"
+  },
+  "word": "mongodbuse_databasename_trong",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3c"
+  },
+  "word": "đó",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3d"
+  },
+  "word": "databasename",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3e"
+  },
+  "word": "là",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 5
+    },
+    {
+      "doc_id": 156,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea3f"
+  },
+  "word": "tên",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea40"
+  },
+  "word": "của",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 6
+    },
+    {
+      "doc_id": 156,
+      "count": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea41"
+  },
+  "word": "các",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 4
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea42"
+  },
+  "word": "bạn",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea43"
+  },
+  "word": "muốn",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea44"
+  },
+  "word": "vd",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea45"
+  },
+  "word": ":",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 4
+    },
+    {
+      "doc_id": 154,
+      "count": 3
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea46"
+  },
+  "word": "có",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 3
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 6
+    },
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea47"
+  },
+  "word": "projectdemo",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea48"
+  },
+  "word": "use",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea49"
+  },
+  "word": 2,
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4a"
+  },
+  "word": "xem",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4b"
+  },
+  "word": "đang",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4c"
+  },
+  "word": "sử",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4d"
+  },
+  "word": "dụngĐể",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4e"
+  },
+  "word": "sử_dụng",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 3
+    },
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea4f"
+  },
+  "word": "(",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea50"
+  },
+  "word": "current",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea51"
+  },
+  "word": ")",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea52"
+  },
+  "word": "thì",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 3
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea53"
+  },
+  "word": "chúng_ta",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea54"
+  },
+  "word": "lệnh",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea55"
+  },
+  "word": "db",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea56"
+  },
+  "word": 3,
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea57"
+  },
+  "word": "tất_cả",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea58"
+  },
+  "word": "hệ",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea59"
+  },
+  "word": "thốngĐể",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5a"
+  },
+  "word": "xe",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5b"
+  },
+  "word": "đã",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5c"
+  },
+  "word": "được",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 5
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5d"
+  },
+  "word": "trên",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5e"
+  },
+  "word": "mongodb",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea5f"
+  },
+  "word": "mọi",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea60"
+  },
+  "word": "người",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea61"
+  },
+  "word": "sau",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea62"
+  },
+  "word": "show",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea63"
+  },
+  "word": "dbs",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea64"
+  },
+  "word": "chú_ý",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea65"
+  },
+  "word": "này",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea66"
+  },
+  "word": "sẽ",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea67"
+  },
+  "word": "chỉ",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea68"
+  },
+  "word": "hiện",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea69"
+  },
+  "word": "ra",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 2
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6a"
+  },
+  "word": "ít_nhất",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6b"
+  },
+  "word": "một",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6c"
+  },
+  "word": "collection",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6d"
+  },
+  "word": "hiểu",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6e"
+  },
+  "word": "như",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea6f"
+  },
+  "word": "table",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea70"
+  },
+  "word": "mysql",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea71"
+  },
+  "word": "còn",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea72"
+  },
+  "word": "nếu",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea73"
+  },
+  "word": "chưa",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea74"
+  },
+  "word": "nó",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea75"
+  },
+  "word": "không",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea76"
+  },
+  "word": "những",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea77"
+  },
+  "word": "câu_lệnh",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea78"
+  },
+  "word": "cơ_bản",
+  "doc": [
+    {
+      "doc_id": 153,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea79"
+  },
+  "word": "lấy",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7a"
+  },
+  "word": "dữ_liệu",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7b"
+  },
+  "word": "-",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7c"
+  },
+  "word": "Để",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7d"
+  },
+  "word": "ở",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7e"
+  },
+  "word": "phương_thức",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea7f"
+  },
+  "word": "find",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea80"
+  },
+  "word": "với",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 3
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea81"
+  },
+  "word": "cú_pháp",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea82"
+  },
+  "word": "bashcopydb",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea83"
+  },
+  "word": "collectionname",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea84"
+  },
+  "word": "mà",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea85"
+  },
+  "word": "truy_vấn",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea86"
+  },
+  "word": "tuy_nhiên",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea87"
+  },
+  "word": "khi",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea88"
+  },
+  "word": "mỗi",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea89"
+  },
+  "word": "trả",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8a"
+  },
+  "word": "về",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    },
+    {
+      "doc_id": 155,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8b"
+  },
+  "word": "dưới",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8c"
+  },
+  "word": "dạng",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8d"
+  },
+  "word": "object",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8e"
+  },
+  "word": "nhưng",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea8f"
+  },
+  "word": "theo",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea90"
+  },
+  "word": "cấu_trúc",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea91"
+  },
+  "word": "nào",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea92"
+  },
+  "word": "cả",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea93"
+  },
+  "word": "admin",
+  "doc": [
+    {
+      "doc_id": 154,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea94"
+  },
+  "word": "giá_trị",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea95"
+  },
+  "word": "thời_gian",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea96"
+  },
+  "word": "tiền",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea97"
+  },
+  "word": "tiếng",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea98"
+  },
+  "word": "anh",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea99"
+  },
+  "word": "gọi",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9a"
+  },
+  "word": "time",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9b"
+  },
+  "word": "value",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9c"
+  },
+  "word": "of",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9d"
+  },
+  "word": "money_Đây",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9e"
+  },
+  "word": "thuật_ngữ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fea9f"
+  },
+  "word": "nói",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa0"
+  },
+  "word": "khoản",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa1"
+  },
+  "word": "thời_điểm",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa2"
+  },
+  "word": "hiện_tại",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa3"
+  },
+  "word": "cao",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa4"
+  },
+  "word": "hơn",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa5"
+  },
+  "word": "tương_tự",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa6"
+  },
+  "word": "tương_lai",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa7"
+  },
+  "word": "vì",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa8"
+  },
+  "word": "mức",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaa9"
+  },
+  "word": "sinh",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaaa"
+  },
+  "word": "lãi",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaab"
+  },
+  "word": "đôi_khi",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaac"
+  },
+  "word": "cũng",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 3
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaad"
+  },
+  "word": "chiết_khấu",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaae"
+  },
+  "word": "&",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaaf"
+  },
+  "word": "nbsp",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab0"
+  },
+  "word": ";",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab1"
+  },
+  "word": "giải_thích",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab2"
+  },
+  "word": "dễ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab3"
+  },
+  "word": "góc_độ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab4"
+  },
+  "word": "tài_chính",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab5"
+  },
+  "word": "tiền_tệ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab6"
+  },
+  "word": "liên_tục",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab7"
+  },
+  "word": "vận_động",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab8"
+  },
+  "word": "và",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 3
+    },
+    {
+      "doc_id": 156,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feab9"
+  },
+  "word": "lợi_nhuận",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaba"
+  },
+  "word": "triệu",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feabb"
+  },
+  "word": "để",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feabc"
+  },
+  "word": "đầu_tư",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feabd"
+  },
+  "word": "hoặc",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feabe"
+  },
+  "word": "cho",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feabf"
+  },
+  "word": "vay",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac0"
+  },
+  "word": "lãi_suất",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac1"
+  },
+  "word": "9%",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac2"
+  },
+  "word": "ngày",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac3"
+  },
+  "word": "hôm_nay",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac4"
+  },
+  "word": "năm",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac5"
+  },
+  "word": "nhận",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac6"
+  },
+  "word": "09",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac7"
+  },
+  "word": "vậy",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac8"
+  },
+  "word": "nghĩa_là",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feac9"
+  },
+  "word": "đồng",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaca"
+  },
+  "word": "tương_đương",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feacb"
+  },
+  "word": "mặt_khác",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feacc"
+  },
+  "word": "rủi_ro",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feacd"
+  },
+  "word": "mối",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feace"
+  },
+  "word": "liên_quan",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feacf"
+  },
+  "word": "chặt_chẽ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead0"
+  },
+  "word": "nhau",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead1"
+  },
+  "word": "quan_hệ",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead2"
+  },
+  "word": "thể_hiện",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead3"
+  },
+  "word": "thông_qua",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead4"
+  },
+  "word": "do_đó",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    },
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead5"
+  },
+  "word": "vào",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead6"
+  },
+  "word": "khác",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead7"
+  },
+  "word": "Điều",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead8"
+  },
+  "word": "nghĩa",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980fead9"
+  },
+  "word": "luôn",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feada"
+  },
+  "word": "cần",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feadb"
+  },
+  "word": "phải",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feadc"
+  },
+  "word": "xem_xét",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feadd"
+  },
+  "word": "đến",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feade"
+  },
+  "word": "đánh_giá",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feadf"
+  },
+  "word": "quyết_định",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae0"
+  },
+  "word": "gì",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae1"
+  },
+  "word": "?",
+  "doc": [
+    {
+      "doc_id": 155,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae2"
+  },
+  "word": "Đặc_điểm",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae3"
+  },
+  "word": "hoạt_động",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae4"
+  },
+  "word": "xét_xử",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae5"
+  },
+  "word": "toà",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae6"
+  },
+  "word": "ánhoạt",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae7"
+  },
+  "word": "động",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae8"
+  },
+  "word": "toà_án",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feae9"
+  },
+  "word": "hình_thức",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaea"
+  },
+  "word": "áp_dụng",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaeb"
+  },
+  "word": "pháp_luật",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaec"
+  },
+  "word": "quan_trọng",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaed"
+  },
+  "word": "tính_chất",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaee"
+  },
+  "word": "“",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaef"
+  },
+  "word": "”",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf0"
+  },
+  "word": "biểu_hiện",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf1"
+  },
+  "word": "điểm",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf2"
+  },
+  "word": "đây",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf3"
+  },
+  "word": "a",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf4"
+  },
+  "word": "/",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf5"
+  },
+  "word": "quyền",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf6"
+  },
+  "word": "lựcxét",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf7"
+  },
+  "word": "xử",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf8"
+  },
+  "word": "phán_quyết",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaf9"
+  },
+  "word": "cơ_quan",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feafa"
+  },
+  "word": "thay_mặt",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feafb"
+  },
+  "word": "nhà_nước",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feafc"
+  },
+  "word": "nhằm",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feafd"
+  },
+  "word": "khôi_phục",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feafe"
+  },
+  "word": "trật_tự",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feaff"
+  },
+  "word": "bị",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb00"
+  },
+  "word": "xâm_phạm",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb01"
+  },
+  "word": "bảo_vệ",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb02"
+  },
+  "word": "lợi_ích",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb03"
+  },
+  "word": "hợp_pháp",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb04"
+  },
+  "word": "chính_đáng",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb05"
+  },
+  "word": "công_dân",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb06"
+  },
+  "word": "tập_thể",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb07"
+  },
+  "word": "quốc_gia",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb08"
+  },
+  "word": "xã_hội",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb09"
+  },
+  "word": "vì_vậy",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0a"
+  },
+  "word": "quyền_lực",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0b"
+  },
+  "word": "đặc_thù",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0c"
+  },
+  "word": "đơn_thuần",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0d"
+  },
+  "word": "dàn_xếp",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0e"
+  },
+  "word": "hoà_giải",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb0f"
+  },
+  "word": "mặc_dù",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb10"
+  },
+  "word": "thực_chất",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb11"
+  },
+  "word": "mục_đích",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb12"
+  },
+  "word": "như_vậy",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb13"
+  },
+  "word": "khăng_khít",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb14"
+  },
+  "word": "vai_trò",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb15"
+  },
+  "word": "quá_trình",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb16"
+  },
+  "word": "phát_triển",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb17"
+  },
+  "word": "hệ_thống",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656cc28b46eba136980feb18"
+  },
+  "word": "việt_nam",
+  "doc": [
+    {
+      "doc_id": 156,
+      "count": 1
+    }
+  ]
+}]

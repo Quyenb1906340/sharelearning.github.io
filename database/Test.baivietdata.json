@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "656ca79046eba136980fe1da"
+  },
+  "id": 153,
+  "noidung": "1 Tạo database trong MongoDBuse DatabaseName\r\nTrong đó DatabaseName là tên của database các bạn muốn tạo  vd: Tạo database có tên là projectdemo use projectdemo\r\n2 Xem database đang sử dụngĐể xem database đang sử dụng(current database) thì chúng ta sử dụng lệnh:db\r\n3 Xem tất cả các database trong hệ thốngĐể xe tất cả các database đã được tạo trên MongoDB thì mọi người sử dụng lệnh sau:show dbs\r\nChú ý: Lệnh này sẽ chỉ hiện ra các database đã có ít nhất một collection(hiểu như table trong MySql)  còn nếu chưa có thì nó sẽ không hiện ra Những câu lệnh cơ bản trong MongoDB"
+},
+{
+  "_id": {
+    "$oid": "656ca85e46eba136980fe51c"
+  },
+  "id": 154,
+  "noidung": "1  Lấy tất cả dữ liệu trong Collection -Để lấy tất cả dữ liệu ở trong collection chúng ta sử dụng phương thức find() với cú pháp:bashcopydb collectionName find()Trong đó: collectionName là tên của collection mà các bạn muốn truy vấn -Tuy nhiên  khi chỉ sử dụng mỗi phương thức find thì dữ liệu trả về sẽ dưới dạng object nhưng không theo một cấu trúc nào cả VD: Lấy tất cả dữ liệu đang có trong Collection admin Truy vấn dữ liệu trong MongoDB"
+},
+{
+  "_id": {
+    "$oid": "656caa1346eba136980fe88d"
+  },
+  "id": 155,
+  "noidung": "Giá trị thời gian của tiền trong tiếng Anh được gọi là Time value of Money  Đây là thuật ngữ nói về khoản tiền đang có ở thời điểm hiện tại sẽ có giá trị cao hơn khoản tiền tương tự trong tương lai vì mức sinh lãi của nó  Giá trị thời gian của tiền đôi khi cũng được hiểu là giá trị chiết khấu của nó ở thời điểm hiện tại &nbsp;&nbsp;Giải thích dễ hiểu trên góc độ tài chính  tiền tệ liên tục vận động và sinh ra lợi nhuận  Nếu bạn có 1 triệu để đầu tư hoặc cho vay với lãi suất 9% ngày hôm nay  thì sau một năm bạn sẽ nhận được 1 09 triệu  Vậy nghĩa là 1 triệu đồng hôm nay có giá trị tương đương với 1 09 triệu sau một năm Mặt khác  tiền  thời gian và rủi ro có mối liên quan chặt chẽ với nhau  Mối quan hệ này được thể hiện thông qua lãi suất  Do đó  tiền tệ nhận được vào các thời điểm cũng khác nhau  Điều này cũng có nghĩa là chúng ta luôn cần phải xem xét đến giá trị thời gian của tiền để đánh giá các quyết định đầu tư và quyết định tài chính Giá trị thời gian của tiền là gì?"
+},
+{
+  "_id": {
+    "$oid": "656cc26246eba136980fea36"
+  },
+  "id": 156,
+  "noidung": "1  Đặc điểm của hoạt động xét xử của Tòa ánHoạt động xét xử của Tòa án là hình thức áp dụng pháp luật quan trọng  Tính chất “áp dụng pháp luật” của hoạt động xét xử được biểu hiện ở những điểm sau đây:a/ Hoạt động xét xử là hoạt động quyền lựcXét xử là hoạt động phán quyết của cơ quan thay mặt Nhà nước nhằm khôi phục trật tự nếu nó bị xâm phạm  hoặc nhằm bảo vệ lợi ích hợp pháp và chính đáng của công dân  của tập thể  của quốc gia và xã hội  Vì vậy  đây là một hoạt động quyền lực nhà nước đặc thù  nó không đơn thuần chỉ là dàn xếp  hòa giải  mặc dù về thực chất  dàn xếp và hòa giải cũng có mục đích như vậy và do đó  có mối liên quan khăng khít với hoạt động xét xử Vai trò của hoạt động xét xử của tòa án trong quá trình phát triển hệ thống pháp luật Việt Nam"
+}]
