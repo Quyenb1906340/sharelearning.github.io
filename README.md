@@ -1,11 +1,19 @@
 I. Giới thiệu:
+
   Nghiên cứu này nhằm xây dựng “Hệ thống chia sẻ tài nguyên học tập” cho học sinh và giáo viên để đáp ứng nhu cầu tìm kiếm tài liệu học tập và nghiên cứu, đảm bảo nguồn tài liệu chuẩn, tiết kiệm thời gian và chi phí của học sinh. Hệ thống được xây dựng theo các bước trong quy trình phát triển phần mềm với các chức năng tìm kiếm, đánh giá, bình luận, chia sẻ nguồn tài liệu học tập. Các chủ đề thảo luận và tài nguyên học tập được quản lý theo khối lớp, môn học tạo sự thuận tiện trong tra cứu.
+  
   Đặc biệt, tiêu đề của chủ đề thảo luận và nội dung của tài nguyên học tập được xác lập chỉ mục và lưu trữ với hệ quản trị CSDL Mongodb làm nền tảng xây dựng chức năng tìm kiếm theo nội dung cũng như kiểm tra trùng lắp giữa các tài nguyên học tập. Chúng tôi sử dụng độ đo Jaccard để so sánh độ trùng lặp giữa các tài nguyên học tập, trọng số TF-IDF và độ đo Cosine để xác định sự phù hợp giữa nhu cầu thông tin của người dùng và các chủ đề thảo luận cũng như tài nguyên học tập có trên hệ thống.
 
 II. Mô tả:
+
   Hệ thống chia sẻ tài nguyên học tập là một nền tảng trực tuyến giúp cộng đồng giáo viên và học sinh chia sẻ, tìm kiếm và tương tác với tài nguyên học tập một cách thuận tiện và hiệu quả, với ba nhóm người dùng chính trong hệ thống. Đó là quản trị viên cấp cao (Super Admin), quản trị viên (Admin) và người dùng có tài khoản (giáo viên và học sinh).
-  
-III. Một số giao diện website:
+
+III. Công nghệ sử dụng:
+  - Front-end: Html, Css, Javascript, Ajax
+  - Back-end: Php, Python
+  - Cơ sở dữ liệu: Phpmyadmin, MongoDB
+    
+VI. Một số giao diện website:
 
 ![image](https://github.com/trucquyentran/sharelearning/assets/101681888/f3ff24b0-a6c8-474c-b168-fdb090dd5ea9)
 
